@@ -32,6 +32,10 @@ def get_rest_name_link_lists(rest_list):
         print(f"{rest_info['name']}  {rest_info['url']}")
 
 
-if __name__ == '__main__':
+def main():
     response = get_input_word()
     get_rest_name_link_lists(response)
+
+
+if __name__ == '__main__':
+    main()
