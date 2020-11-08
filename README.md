@@ -1,7 +1,9 @@
 # リポジトリ名
 https://github.com/hashiguchi1544/web_api
 ## 目的
-PythonによるWebAPIの利用方法を学習するすため
+PythonによるWebAPIの利用方法を学習するすため。
+
+(APIのアクセスキーは、環境変数にしてます)
 
 ## 作成したプログラム
 #### 占いアプリ
