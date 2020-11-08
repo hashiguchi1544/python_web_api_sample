@@ -1,3 +1,5 @@
+# ぐるなびAPI https://api.gnavi.co.jp/api/scope/
+
 from pprint import pprint
 import requests
 import os
